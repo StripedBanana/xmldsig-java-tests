@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><message from="user2@example.com" to="user1sqdfqdsf@example.com">
+    <body>Hi!qsdfg</body>
+    <thread>sd</thread>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><XPath>ancestor-or-self::*[local-name() = 'body']</XPath></Transform></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>0BhFPzXW4PlWJLQUXteTLKXTsjk=</DigestValue></Reference></SignedInfo><SignatureValue>XT6XvDKAOYzS8FxflydURWLlWEP/A3YkLiTTGTOqEHSfbDyJZ0zpsMLJwfLc3Biku7lf2AOcQYsO
+634WYayg8h7PAQv6nuPJfEBedBRY7K4zhCJIv9dfag9qzvOF9l7nK+Q0nIYutY3Gf75tXhmbU3Kn
+e6WXa9v3upfTs8a2F7o7Nq7xW8GVJ8qBDAhQJrRup+V/iPycOF1FVTiBdy1pY2pAEZaOeKO3TMDw
+uCAVLOgvyZAlF/9rs9YQSk4bBzczdYXA5fQNmcpEDqxEsAQ/8AjZhp7BmbN1NNPCj6M4pPTx2s/r
+k7bGengYmjiy9g61CorVpMvPjI/TgjGoMaMkhA==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ubsRcNwZ7N1YkK2ngvsdjET2lL/s9p54U+GhxQhbnpKrHoJqPz82Q10pG/2ubrqf9CsXw0Or8oVv
+7gDuOAsZ8r7nkoWowq4SJMfifSte+rpAW7X5tdwqSgDEGZorP9hUMGT1QCku/eqy4lHAwkhjDQX8
+YM+BZK1K8eUIcYtwJXjvFXHC8BIJ/c+HXfY3UrJpx/Vi2dvXHWzLlzKnkm+ryknjMsu2B8HdKoIF
+jfMFuHk4W/NR/Gu2LVvi+3Op01bXojHgVhXCp0VgtYRW4lGQVmLnbEK/ZvBPvDdBxOwjKqNN2HZp
+i0/Girc7Js8U6/ayyOWmwoFOv98uwO+/mrlucw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></message>
